@@ -1,4 +1,6 @@
-Real weather data using API by https://openweathermap.org/
+Real weather data using API by https://openweathermap.org/ 
+
+
 <img width="400" alt="image" src="https://github.com/sumeeh/weatherapp_html_css_javascript/assets/104570316/e2293058-a6de-4af7-906e-6e791d962394">
 
 <img width="948" alt="image" src="https://github.com/sumeeh/weatherapp_html_css_javascript/assets/104570316/cc1fe623-9cfe-49ec-89d8-3913d1029efc">
